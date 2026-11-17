@@ -1,0 +1,7 @@
+Task07/ResultProcessor.java: COMPILED
+Task03/ReportGenerator.java: COMPILED
+Task05/SeatBooking.java: COMPILED
+Task02/StorageDemo.java: COMPILED
+Task01/ATM.java: COMPILED
+Task06/TokenCounter.java: COMPILED
+Task04/ScannerStations.java: COMPILED
